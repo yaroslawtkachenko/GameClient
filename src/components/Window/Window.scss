@@ -1,0 +1,12 @@
+.window {
+    display: flex;
+    justify-content: space-between;
+    background-color: darkcyan;
+    .left-area {
+        flex-direction: column;
+        display: block;
+        justify-content: space-between;
+        width: 30%;
+        border: 3px black solid;
+    }
+}

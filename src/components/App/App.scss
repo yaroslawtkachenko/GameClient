@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    font-family: Ubuntu;
+    body {
+        background-color: #c2c2c2;
+    }
+}
+
+.App {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 35px;
+    background-color: #fff;
+    min-height: 100%;
+    overflow:auto;
+}

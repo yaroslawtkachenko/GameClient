@@ -1,0 +1,10 @@
+.info {
+    display: block;
+    border: 1px solid forestgreen;
+    height: 50%;
+    .info-tabs {
+        background: lightcoral;
+        display: flex;
+        justify-content: space-between;
+    }
+}
